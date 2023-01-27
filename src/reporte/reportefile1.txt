@@ -1,0 +1,4 @@
+casa,3
+arbol,3
+manzana,3
+pera,2

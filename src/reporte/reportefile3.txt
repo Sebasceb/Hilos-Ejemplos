@@ -1,0 +1,6 @@
+Guayaquil,1
+Quito,2
+Cuenca,2
+Loja,2
+Machala,1
+Salinas,1

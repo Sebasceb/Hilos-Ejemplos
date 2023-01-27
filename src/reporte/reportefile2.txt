@@ -1,0 +1,5 @@
+perro,3
+gato,3
+caballo,2
+vaca,2
+pato,2
